@@ -2,24 +2,41 @@
 
 My name is Jamie, and thank you for viewing my github!
 
-
 ***
 
+<br/>
 
-
-#### :raising_hand_woman: A little about me:
+### :raising_hand_woman: A little about me:
 
 * I have a BSc in Criminology and Psychology
 * I am currently studying Computing in Data Analytics at ATU
 * I recently started a new career in the Department of social Protection
-* 
 
-:star:
+***
 
-- A profile readme, that says something about who you are and what repositories you want to showcase.  (see Managing your profile README - GitHub Docs)
-- These (showcase) repositories should each have their own readme file indicating (where relevant):
-- What the repository contains, 
-- Technologies used, 
-- How to run any code, 
-- Any other appropriate documentation. 
+<br/>
+
+### :star: My Favourite Repositories
+
+<br/>
+
+* **Pands Project**<br/>
+> This project concerns the well-known Fisher’s Iris data set. You must research the data set and write documentation and code (in Python) to investigate it. An online search for information on the data set will convince you that many people have investigated it previously. You are expected to be able to break this project into several smaller tasks that are easier to solve, and to plug these together after they have been completed.
+
+
+<br/>
+
+  
+* **Programming-for-DA**<br/>
+> For this project you must create a data set by simulating a real-world phenomenon of your choosing. You may pick any phenomenon you wish – you might pick one that is of interest to you in your personal or professional life. Then, rather than collect data related to the phenomenon, you should model and synthesise such data using Python. <br/>
+
+For this project, I chose to create a data set profiling the 'typical' Irish expat from the last two years. Defining an expat for the purpose of the dataset as an Irish person who last left Ireland in the last two years to move abroad for an undefined length of time. I have chosen this topic as it is something I have experience in, I myself moved to Australia in 2015 and lived there for 5 years, before returning to Ireland. It seems that everyone in Ireland has a relation or a friend of a friend that has moved abroad lately, and the purpose of this study is to try and define, or create a profile of the usual Irish expat, and see if there are any connections between the four variables I have chosen.
+
+<br/>
+
+
+
+
+
+
 
